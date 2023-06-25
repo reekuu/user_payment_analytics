@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reekuu/user_payment_analytics/blob/main/analytics_notebook.ipynb)
 # Задание по генерации и обработке данных
 
-![MRR](https://github.com/reekuu/user_payment_analytics/blob/main/data/mrr.jpeg)
+![MRR](https://github.com/reekuu/user_payment_analytics/blob/main/data/mrr.png)
 
 Этот проект описывает решение тестового задания, которое включает в себя создание датасета, работу с базой данных Postgresql, а также анализ данных и визуализацию результатов.
 
